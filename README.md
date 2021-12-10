@@ -1,4 +1,4 @@
-# Brian2GeNN_introduction
+# Introductory tutorial to Brian2GeNN
 
 
 Links to google colab notebooks:
